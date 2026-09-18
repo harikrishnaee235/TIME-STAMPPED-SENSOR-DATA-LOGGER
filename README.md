@@ -366,7 +366,7 @@ TIME_STAMPED_SENSOR_DATA_LOGGER/
 --
 
 ## Hardware Output
-![Project Block Diagram](Screenshot%202026-09-13%20144016.png)
+![Project Block Diagram](Screenshot%202026-09-17%20144016.png)
 
 ## Flash Magic Terminal Output
 
