@@ -1,9 +1,11 @@
 
 ## LPC2148-TIME-STAMPPED-SENSOR-DATA-LOGGER
 
-## Overview
 
-This project is a "Time Stamped Sensor Data Logger" developed using the "LPC2148 ARM7 Microcontroller". It continuously monitors temperature using the "LM35 analog temperature sensor", records the temperature along with the current "date and time" using the LPC2148's on-chip "Real-Time Clock (RTC)", and transmits the logged data to a PC through "UART". The project also allows the user to edit the current time, date, and temperature set point using a "4x4 keypad" and a "push button". A "16x2 LCD" displays the temperature, time, date, and system status in real time, while a "LED/Buzzer" provides an alert whenever the temperature exceeds the predefined threshold.
+**Objective**
+
+The objective of this project is to design and develop a Time-Stamped Sensor Data Logger using the LPC2148 ARM7 microcontroller that continuously measures temperature using the LM35 sensor, records each reading with the current date and time from the RTC, displays the information on a 16×2 LCD, and sends the logged data to a PC through UART for monitoring and storage.
+
 
 ---
 
